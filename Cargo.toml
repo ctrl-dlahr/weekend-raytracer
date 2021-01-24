@@ -1,0 +1,9 @@
+[package]
+name = "weekend-raytracer"
+version = "0.1.0"
+authors = ["Dustin Lahr <dustin.lahr.367@my.csun.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
